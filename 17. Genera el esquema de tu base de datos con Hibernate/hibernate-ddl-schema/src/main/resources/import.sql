@@ -1,0 +1,1 @@
+INSERT INTO employees(dni, email, nss, salary, age, check_in_time, check_out_time) VALUES ('111111A', 'e1@com', '123456789', 1000, 20, '09:00:00', '18:00:00'), ('222222B', 'e22@com', '123456785', 1000, 20, '09:00:00', '18:00:00');

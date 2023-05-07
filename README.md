@@ -1,2 +1,51 @@
 
 # Formaciones Hibernate ORM
+
+- Introducción a Hibernate
+- Hibernate: Manejo de asociaciones
+- Ciclo de vida de una entidad en Hibernate
+- Introducción a las consultas JPQL con Hibernate
+- Introducción a las consultas Criteria con Hibernate
+- Manejo de enums en Hibernate
+- Ponte al día con Hibernate 6
+- Ponte al día con Jakarta Persistence 3.1
+- Tipos de datos embebidos en Hibernate
+- Asociaciones complejas en Hibernate
+- Estrategias de nombrado en Hibernate
+- Uso de @NotFound en Hibernate
+- Uso de @Any en Hibernate
+- Manejo de colecciones en Hibernate
+- Uso de @NaturalId en Hibernate
+- Modelos de datos con herencia en Hibernate
+- Genera el esquema de tu base de datos con Hibernate
+- Filtrado de asociaciones en Hibernate
+- Manejo del contexto de persistencia en Hibernate
+- Manejo de entidades en cascada en Hibernate
+- Fetching directo vs fetching en consultas en Hibernate
+- Grafos de entidad en Hibernate
+- Uso de @Fetch en Hibernate
+- Caching en Hibernate
+- Ejecución de consultas en Hibernate
+- Mejora el rendimiento de tus consultas en Hibernate usando DTO
+- Uso de funciones en consultas con Hibernate
+- Consultas agregadas en Hibernate
+- Mejora tus consultas Criteria en Hibernate
+- Consultas nativas en Hibernate
+- Auditoría de datos con Hibernate Envers
+- Manejo de datos espaciales con Hibernate
+- Uso de @Transient en JPA
+- Maneja la igualdad de entidades en Hibernate
+- Consultas con QueryDSL en Hibernate
+- Blaze Persistence
+- Aprende a usar Hibernate Types
+- Modificaciones y borrados bulk con Hibernate
+- Cómo evitar la excepción MultipleBagFetchException en Hibernate
+- Identificadores de entidades en Hibernate
+- Manejo de transacciones y concurrencia en Hibernate
+- Database Locking en Hibernate
+- Implementación de una arquitectura multitenancy con Spring Boot e Hibernate
+- Batching en Hibernate
+- Uso de Hints en consultas en Hibernate
+- Buenas prácticas para mejorar el rendimiento de Hibernate
+- Hibernate Semantic Query Model
+- Avanzado de Blaze Persistence
